@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-const contactNumber = "5493516772889"; // Reemplaza con tu numero (con código país sin + y sin espacios)
+const contactNumber = "5493513796498"; // Reemplaza con tu numero (con código país sin + y sin espacios)
 const message = "Hola, quiero un usuario."; // reemplaza el mensaje dentro de las (""), no las borres
 
 function sendWhatsAppMessage() {
